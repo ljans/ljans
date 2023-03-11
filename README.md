@@ -1,6 +1,6 @@
-👋 Oh look, a visitor! Let me get the text out...
+👋 Oh look, a visitor!
 
-### Welcome to my GitHub profile!
-This is the place my projects are stored.
-I really like to develop web-based applications using my small JavaScript libraries **[pwa](https://github.com/ljans/pwa)**, **[elements](https://github.com/ljans/elements)** and **[idb](https://github.com/ljans/idb)**.
-Besides that, I'm very interested in maths & physics, some related work of mine can also be found here.
+### Welcome to my GitHub profile
+This is the place my coding projects are stored.
+Besides teaching math, I really enjoy to develop web applications using self-made libraries like **[pwa](https://github.com/ljans/pwa)**, **[colony](https://github.com/ljans/colony)** and **[idb](https://github.com/ljans/idb)**.
+Have a look around!
